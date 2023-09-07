@@ -13,7 +13,7 @@ Create a module in Node.js that exports the following functions:
 Example solution:
 math.js
 **/
-hejsan
+
 function add(a, b) {
     if (typeof a !== 'number' || typeof b !== 'number') {
       throw new Error('Invalid arguments: both parameters must be numbers');
