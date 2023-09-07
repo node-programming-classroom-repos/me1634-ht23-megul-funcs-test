@@ -45,6 +45,7 @@ function divide(a, b) {
 }
 
 function power(base, exponent) {
+  let a = 10 + 1;
   if (typeof base !== 'number' || typeof exponent !== 'number') {
     throw new Error('Invalid arguments: both parameters must be numbers');
   }
