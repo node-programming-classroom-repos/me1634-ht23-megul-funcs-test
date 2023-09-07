@@ -7,7 +7,8 @@ Create a module in Node.js that exports the following functions:
     subtract: a function that takes two numbers as arguments and returns their difference.
     multiply: a function that takes two numbers as arguments and returns their product.
     divide: a function that takes two numbers as arguments and returns their quotient.
-    power: a function that takes two numbers as arguments, where the first number is the base and the second number is the exponent, and returns the result of raising the base to the power of the exponent.
+    power: a function that takes two numbers as arguments, where the first number is the base and the second number is the exponent, 
+    and returns the result of raising the base to the power of the exponent.
 
 Example solution:
 math.js
